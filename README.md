@@ -10,10 +10,6 @@ this is my first repository
 ~~cross out this text~~  
 <sub>subscript?>/sub>  
 
-> This is a quote
+> quote
 
-...
-This is for code example  
-code looks like this  
-...
 
