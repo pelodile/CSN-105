@@ -10,6 +10,7 @@ this is my first repository
 ~~cross out this text~~  
 <sub>subscript?>/sub>  
 
-`quote
+```
+code
+```
 
-...
